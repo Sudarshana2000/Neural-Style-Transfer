@@ -49,7 +49,7 @@ Different style transfers:
 5. mosaic
 
 <div style="float:left"><img width="45%" src="https://github.com/Sudarshana2000/Neural-Style-Transfer/blob/master/images/styles/mosaic.jpg" />
-<img width="45%" src="https://github.com/Sudarshana2000/Neural-Style-Transfer/blob/master/images/output/mosaic.jpg" />
+<img width="45%" src="https://github.com/Sudarshana2000/Neural-Style-Transfer/blob/master/images/output/mosaic_house.jpg" />
 </div>
 <br /><br />
 
